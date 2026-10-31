@@ -1,57 +1,52 @@
-<h1 align="center">Monesh V</h1>
-<p align="center"><strong>MCA Student · Full-Stack Developer · Python & AI/ML Enthusiast</strong></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/monesh-v-5874381b1/">LinkedIn</a> ·
-  <a href="https://github.com/MoneshV">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/AI%2FML-6C63FF?style=for-the-badge" alt="AI and machine learning" />
-  <img src="https://img.shields.io/badge/Big_Data-0F766E?style=for-the-badge" alt="Big data" />
-</p>
+<div align="center">
+  <h1>Hi, I'm Monesh V 👋</h1>
+  <h3>MCA Student · Full-Stack Developer · Python & AI/ML Enthusiast</h3>
+  <p>Building practical software and learning by creating projects.</p>
+  <a href="https://www.linkedin.com/in/monesh-v-5874381b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/MoneshV"><img src="https://img.shields.io/badge/GitHub-MoneshV-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</div>
 
 ---
 
-## About me
+### About me
 
-- 🎓 Master of Computer Applications student (2025–2027)
-- 💻 Interested in full-stack development, Python, AI/ML, and big data analytics
-- 🧩 I enjoy connecting polished interfaces with useful backend and data workflows
+- 🎓 **MCA student** at Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (2025–2027)
+- 💻 Interested in full-stack development, Python, AI/ML, and big data
+- 🧪 Learning through hands-on projects in Python, Java, and JavaScript
 - 📍 Chennai, Tamil Nadu, India
 
-## Featured projects
+### Tech stack
 
-### [NeuroRisk AI](https://github.com/moneshram/NeuroRisk-AI)
-An academic full-stack project exploring brain stroke risk classification from health and demographic inputs. It combines a React and TypeScript interface, Flask backend, Scikit-learn Random Forest model, SQLite storage, authentication, and role-based access.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,mysql,mongodb,git,github&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, React, Node.js, Flask, MySQL, MongoDB, Git, GitHub" />
+</div>
 
-**Stack:** Python · Flask · React.js · TypeScript · Tailwind CSS · Scikit-learn · SQLite
+### GitHub at a glance
 
-### [Movie Rating Analytics](https://github.com/moneshram/movie-rating-analytics)
-A MovieLens analytics project using HDFS, Java MapReduce, Python Hadoop Streaming, and HiveQL to study movie ratings, user activity, and genre trends.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoneshV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneshV&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+</div>
 
-**Stack:** Hadoop · HDFS · Java · Python · Apache Hive · HiveQL
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoneshV&bg_color=1a1b27&color=c9d1d9&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
 
-### More work
+### Selected repositories
 
-- [Python GUI](https://github.com/MoneshV/Python-Gui) — Python and Tkinter GUI project
-- [JavaScript](https://github.com/MoneshV/Java-Script) · [Basic Java Programs](https://github.com/MoneshV/Basic-Java-Programme)
+| Project | What it shows |
+| --- | --- |
+| [Python-Gui](https://github.com/MoneshV/Python-Gui) | Python GUI development with Tkinter |
+| [Project1--Youtube-clone](https://github.com/MoneshV/Project1--Youtube-clone) | Front-end practice using HTML |
+| [Java-Script](https://github.com/MoneshV/Java-Script) | JavaScript learning and practice |
+| [Basic-Python-Program](https://github.com/MoneshV/Basic-Python-Program) | Python fundamentals and syntax |
+| [Basic-Java-Programme](https://github.com/MoneshV/Basic-Java-Programme) | Java programming practice |
 
-## Tech stack
+### Education
 
-**Languages:** Python · Java · JavaScript · TypeScript · C · SQL · HiveQL  
-**Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS  
-**Backend:** Node.js · Flask  
-**Data & ML:** MySQL · MongoDB · SQLite · PostgreSQL · Hadoop · HDFS · MapReduce · Apache Hive · Scikit-learn  
-**Tools:** Git · GitHub · Linux · VS Code
+**Master of Computer Applications** · SCSVMV · 2025–2027 · CGPA 8.06  
+**Bachelor of Computer Applications** · Dr. M.G.R. Educational and Research Institute · 2024 · CGPA 7.79
 
-## Education
-
-**MCA** · Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (2025–2027) · Current CGPA 8.06  
-**BCA** · Dr. M.G.R. Educational and Research Institute (2024) · CGPA 7.79
-
----
-
-<p align="center">Open to learning, collaboration, and entry-level software development opportunities.</p>
+<div align="center">
+  <sub>Always learning, building, and improving one project at a time.</sub>
+</div>
