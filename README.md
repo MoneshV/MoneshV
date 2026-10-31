@@ -5,16 +5,16 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/monesh-v-5874381b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/MoneshV"><img src="https://img.shields.io/badge/GitHub-MoneshV-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/MoneshV"><img width="49%" src="https://ghstats.dev/api/profile?username=MoneshV&type=profile&theme=dark&style=compact&show_languages=false&bg=0d1117&panel=161b22&text=c9d1d9&muted=8b949e&accent=39d353&border=30363d" alt="GitHub profile stats" /></a>
   <a href="https://github.com/MoneshV"><img width="49%" src="https://ghstats.dev/api/langs?username=MoneshV&theme=tokyonight&layout=bar" alt="Top languages across my repositories" /></a>
 </p>
 
 <p align="center"><kbd><img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,mysql,mongodb,git,github&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, React, Node.js, Flask, MySQL, MongoDB, Git, and GitHub" /></kbd></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/monesh-v-5874381b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/MoneshV"><img src="https://img.shields.io/badge/GitHub-MoneshV-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</p>
 
 <h3 align="center">Contribution activity</h3>
 <p align="center"><a href="https://github.com/MoneshV"><img width="100%" src="https://ghstats.dev/api/profile?username=MoneshV&type=contributions&theme=dark&bg=0d1117&panel=161b22&text=c9d1d9&muted=8b949e&accent=39d353&border=30363d" alt="GitHub contribution heatmap" /></a></p>
