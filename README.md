@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Public_repositories-7-2f81f7?style=for-the-badge&logo=github&logoColor=white" alt="7 public repositories" />
   <img src="https://img.shields.io/github/stars/MoneshV/Python-Gui?style=for-the-badge&label=Python-Gui%20stars&logo=github" alt="Python-Gui stars" />
-  <img src="https://img.shields.io/github/languages/top/MoneshV/Python-Gui?style=for-the-badge&label=Python-Gui%20language" alt="Python-Gui primary language" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20JavaScript-3776AB?style=for-the-badge&logo=code&logoColor=white" alt="Python, Java, and JavaScript" />
 </div>
 
 <p align="center"><em>Explore my pinned repositories and contribution calendar below.</em></p>
