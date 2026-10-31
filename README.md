@@ -21,16 +21,15 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,flask,mysql,mongodb,git,github&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, React, Node.js, Flask, MySQL, MongoDB, Git, GitHub" />
 </div>
 
-### GitHub at a glance
+### GitHub snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoneshV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoneshV&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img src="https://img.shields.io/badge/Public_repositories-7-2f81f7?style=for-the-badge&logo=github&logoColor=white" alt="7 public repositories" />
+  <img src="https://img.shields.io/github/stars/MoneshV/Python-Gui?style=for-the-badge&label=Python-Gui%20stars&logo=github" alt="Python-Gui stars" />
+  <img src="https://img.shields.io/github/languages/top/MoneshV/Python-Gui?style=for-the-badge&label=Python-Gui%20language" alt="Python-Gui primary language" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoneshV&bg_color=1a1b27&color=c9d1d9&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
+<p align="center"><em>Explore my pinned repositories and contribution calendar below.</em></p>
 
 ### Selected repositories
 
